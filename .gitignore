@@ -1,0 +1,7 @@
+# Ignore folders
+node_modules/
+dist/
+
+
+# Ignore sensitive
+.env
